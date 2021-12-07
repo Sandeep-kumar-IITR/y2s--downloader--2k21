@@ -71,7 +71,8 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'y2s.wsgi.application'
-heroku config:set DISABLE_COLLECTSTATIC=1
+
+
 # Database
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
 
