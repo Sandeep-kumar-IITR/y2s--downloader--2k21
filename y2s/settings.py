@@ -72,7 +72,10 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'y2s.wsgi.application'
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b06ae38ab462d2d85a76f5e81b1dd8f9d2a879c7
 # Database
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
 
